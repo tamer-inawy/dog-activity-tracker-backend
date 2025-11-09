@@ -1,7 +1,7 @@
 {
   "name": "dog-activity-tracker-backend",
   "version": "1.0.0",
-  "description": "NestJS backend for Dog Activity Tracker",
+  "description": "NestJS API for Dog Activity Tracker",
   "author": "Your Name",
   "private": true,
   "license": "MIT",
